@@ -1,0 +1,92 @@
+.background-img
+{
+  background-image: url('../../../images/kitchen-background.jpg');
+ height: 100%;
+  width: 100%
+}
+.carsouel-img
+{
+  
+ width:82%;
+  padding: 10rem 0 0 10rem;
+  
+}
+.carsouel-img .carousel-inner{
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=17, Direction=118, Color=#858585)";/*IE 8*/
+-moz-box-shadow: 8px 15px 17px #000000;/*FF 3.5+*/
+-webkit-box-shadow: 8px 15px 17px #858585;/*Saf3-4, Chrome, iOS 4.0.2-4.2, Android 2.3+*/
+box-shadow: 8px 15px 17px #858585;/* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
+filter: progid:DXImageTransform.Microsoft.Shadow(Strength=17, Direction=135, Color=#858585); /*IE 5.5-7*/
+
+}
+.carsouel-img .carousel-indicators
+{
+  display:none;
+}
+.header-tag
+{
+  padding: 10rem 0 0 10rem;
+}
+.header-tag-two
+{
+  float: right;
+}
+.carsouel-one{
+  width:100%;
+}
+.carsouel-img .carousel-control-prev
+{
+  left: 15rem;
+  height: min-content;
+  top: 25rem;
+  
+
+}
+.carsouel-img .carousel-control-next
+{
+  height: min-content;
+  top: 25rem;
+}
+/* .carsouel-img .carousel-control-prev-icon
+{
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+} */
+.slider1
+{
+  height: 23rem;
+  position: relative;
+  top: -11rem;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=13, Direction=131, Color=#858585)";/*IE 8*/
+-moz-box-shadow: 6px 7px 13px 3px #858585;/*FF 3.5+*/
+-webkit-box-shadow: 6px 7px 13px 3px #858585;/*Saf3-4, Chrome, iOS 4.0.2-4.2, Android 2.3+*/
+box-shadow: 6px 7px 13px 3px #858585;/* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
+filter: progid:DXImageTransform.Microsoft.Shadow(Strength=13, Direction=135, Color=#858585); /*IE 5.5-7*/
+}
+.slider2
+{
+  
+  
+ 
+  
+
+}
+.slider3
+{
+  height: 23rem;
+  position: relative;
+  top: -14rem;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=13, Direction=131, Color=#858585)";/*IE 8*/
+-moz-box-shadow: 6px 7px 13px 3px #858585;/*FF 3.5+*/
+-webkit-box-shadow: 6px 7px 13px 3px #858585;/*Saf3-4, Chrome, iOS 4.0.2-4.2, Android 2.3+*/
+box-shadow: 6px 7px 13px 3px #858585;/* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
+filter: progid:DXImageTransform.Microsoft.Shadow(Strength=13, Direction=135, Color=#858585); /*IE 5.5-7*/
+ 
+
+}
+.slider-padding
+{
+padding:10px;
+}
+
